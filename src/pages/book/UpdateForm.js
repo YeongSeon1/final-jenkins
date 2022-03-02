@@ -23,7 +23,7 @@ const UpdateForm = (props) => {
     e.preventDefault();
 
     if(member.name.length === 0){
-      alert("이름을 입력해주세요.");
+      alert("이름을 입력해주세요..");
       return navigate("/saveForm");
     }
   
