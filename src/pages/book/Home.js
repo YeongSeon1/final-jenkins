@@ -21,7 +21,7 @@ const Home = () => {
             <tr>
               <th>#</th>
               <th>Name!</th>
-              <th>userEmail</th>
+              <th>userEmail!</th>
               <th>BirthYear</th>
               <th>Gender</th>
             </tr>
