@@ -41,7 +41,7 @@ const UpdateForm = (props) => {
     }
   
     if(member.gender.length === 0){
-      alert("성별을 선택해주세요.");
+      alert("성별을 선택해주세요..");
       return navigate("/saveForm");
     }
 
